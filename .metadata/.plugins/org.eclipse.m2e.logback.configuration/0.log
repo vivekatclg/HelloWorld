@@ -1,0 +1,15 @@
+2014-04-08 03:02:32,830 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\TouchSmart\Documents\GitHub\HelloWorld\FirstJenkinsCIProj\pom.xml
+2014-04-08 03:02:34,405 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vivek.swe437:FirstJenkinsCIProj:0.0.1-SNAPSHOT @ C:\Users\TouchSmart\Documents\GitHub\HelloWorld\FirstJenkinsCIProj\pom.xml.
+2014-04-08 03:02:37,318 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FirstJenkinsCIProj/src/main/java
+2014-04-08 03:02:37,324 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FirstJenkinsCIProj/src/test/java
+2014-04-08 03:02:37,762 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vivek.swe437:FirstJenkinsCIProj:0.0.1-SNAPSHOT @ C:\Users\TouchSmart\Documents\GitHub\HelloWorld\FirstJenkinsCIProj\pom.xml.
+2014-04-08 03:02:38,566 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 5 sec
+2014-04-08 03:02:39,800 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vivek.swe437:FirstJenkinsCIProj:0.0.1-SNAPSHOT @ C:\Users\TouchSmart\Documents\GitHub\HelloWorld\FirstJenkinsCIProj\pom.xml.
+2014-04-08 03:02:39,915 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-04-08 03:02:39,916 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\TouchSmart\Documents\GitHub\HelloWorld\FirstJenkinsCIProj\src\main\resources
+2014-04-08 03:02:39,920 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-04-08 03:02:39,920 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\TouchSmart\Documents\GitHub\HelloWorld\FirstJenkinsCIProj\src\test\resources
+2014-04-08 03:03:08,466 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-04-08 03:03:08,467 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\TouchSmart\Documents\GitHub\HelloWorld\FirstJenkinsCIProj\src\main\resources
+2014-04-08 03:03:08,471 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-04-08 03:03:08,472 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\TouchSmart\Documents\GitHub\HelloWorld\FirstJenkinsCIProj\src\test\resources
