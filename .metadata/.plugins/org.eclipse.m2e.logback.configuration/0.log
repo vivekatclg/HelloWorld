@@ -17,3 +17,7 @@
 2014-04-08 03:07:19,158 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\TouchSmart\Documents\GitHub\HelloWorld\FirstJenkinsCIProj\src\main\resources
 2014-04-08 03:07:19,161 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2014-04-08 03:07:19,162 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\TouchSmart\Documents\GitHub\HelloWorld\FirstJenkinsCIProj\src\test\resources
+2014-04-08 03:12:23,850 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-04-08 03:12:23,850 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\TouchSmart\Documents\GitHub\HelloWorld\FirstJenkinsCIProj\src\main\resources
+2014-04-08 03:12:23,853 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-04-08 03:12:23,854 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\TouchSmart\Documents\GitHub\HelloWorld\FirstJenkinsCIProj\src\test\resources
